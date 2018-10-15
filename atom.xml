@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-15T09:16:43.379Z</updated>
+  <updated>2018-10-15T09:29:59.157Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/10/15/c-%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/"/>
     <id>http://yoursite.com/2018/10/15/c-的注意事项/</id>
     <published>2018-10-15T08:56:29.000Z</published>
-    <updated>2018-10-15T09:16:43.379Z</updated>
+    <updated>2018-10-15T09:29:59.157Z</updated>
     
     <content type="html"><![CDATA[<hr><h2 id="符号与空格"><a href="#符号与空格" class="headerlink" title="符号与空格"></a>符号与空格</h2><ul><li><strong>括号内侧</strong>加空格</li><li><strong>二元运算符号</strong>两边加空格</li><li><strong>“,”</strong>后面加空格</li><li>先加空格再注释,双斜线后也要加空格<em>也就是说”//“前后都要加空格</em></li></ul><hr><h2 id="命名"><a href="#命名" class="headerlink" title="命名"></a>命名</h2><p><strong>类</strong>的第一个字母大写,如:<code>GradeBook</code><br><strong>函数,变量</strong>小写,如:<code>disMassage()</code>,<code>nameOfCourse</code></p>]]></content>
     
@@ -37,6 +37,8 @@
     
     </summary>
     
+    
+      <category term="笔记" scheme="http://yoursite.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
