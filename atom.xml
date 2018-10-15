@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-07T14:01:30.768Z</updated>
+  <updated>2018-10-15T09:14:24.547Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>c++的格式</title>
+    <link href="http://yoursite.com/2018/10/15/c-%E7%9A%84%E6%A0%BC%E5%BC%8F/"/>
+    <id>http://yoursite.com/2018/10/15/c-的格式/</id>
+    <published>2018-10-15T08:56:29.000Z</published>
+    <updated>2018-10-15T09:14:24.547Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="c-的注意事项"><a href="#c-的注意事项" class="headerlink" title="c++的注意事项"></a>c++的注意事项</h1><hr><h2 id="符号与空格"><a href="#符号与空格" class="headerlink" title="符号与空格"></a>符号与空格</h2><ul><li><strong>括号内侧</strong>加空格</li><li><strong>二元运算符号</strong>两边加空格</li><li><strong>“,”</strong>后面加空格</li><li>先加空格再注释,双斜线后也要加空格<em>也就是说”//“前后都要加空格</em></li></ul><hr><h2 id="命名"><a href="#命名" class="headerlink" title="命名"></a>命名</h2><p><strong>类</strong>的第一个字母大写,如:<code>GradeBook</code><br><strong>函数,变量</strong>小写,如:<code>disMassage()</code>,<code>nameOfCourse</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;c-的注意事项&quot;&gt;&lt;a href=&quot;#c-的注意事项&quot; class=&quot;headerlink&quot; title=&quot;c++的注意事项&quot;&gt;&lt;/a&gt;c++的注意事项&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&quot;符号与空格&quot;&gt;&lt;a href=&quot;#符号与空格&quot; class=&quot;headerl
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
