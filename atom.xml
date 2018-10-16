@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-16T13:11:53.947Z</updated>
+  <updated>2018-10-15T09:29:59.157Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,46 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>英语单词1</title>
-    <link href="http://yoursite.com/2018/10/16/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D1/"/>
-    <id>http://yoursite.com/2018/10/16/英语单词1/</id>
-    <published>2018-10-16T12:25:25.000Z</published>
-    <updated>2018-10-16T13:11:53.947Z</updated>
-    
-    <content type="html"><![CDATA[<table><thead><tr><th>英</th><th>漢</th></tr></thead><tbody><tr><td>bulky</td><td>庞大的</td></tr><tr><td>mourn</td><td>哀悼</td></tr><tr><td>see sb off</td><td>送別</td></tr><tr><td>arouse；<em>stimulate</em></td><td>激起</td></tr><tr><td>plight</td><td>困境</td></tr><tr><td>spoil</td><td>溺愛</td></tr><tr><td>ironic</td><td>嘲讽</td></tr><tr><td>patriotic</td><td>愛國的</td></tr><tr><td>suspicion</td><td>疑心</td></tr><tr><td>specialist；expet； profession</td><td>专家</td></tr><tr><td>conservative</td><td>保守</td></tr><tr><td>Labor Party</td><td>工党</td></tr><tr><td>landslide</td><td>滑坡</td></tr><tr><td>jade</td><td>玉石</td></tr><tr><td>revenue</td><td>收入</td></tr><tr><td>commit; devote; dedicate</td><td>奉献</td></tr><tr><td>rebal</td><td>n.叛乱分子; v.反叛</td></tr><tr><td>terrorism</td><td>恐怖主义</td></tr><tr><td>counterterrorism</td><td>反恐</td></tr><tr><td>extremist</td><td>极端组织</td></tr><tr><td>ideology</td><td>意识形态</td></tr><tr><td>slumber</td><td>睡眠</td></tr><tr><td>prehistoric</td><td>史前</td></tr><tr><td>clash; conflict with …; collision</td><td>　冲突</td></tr><tr><td>apathetic</td><td>冷漠的</td></tr><tr><td>sympathetic</td><td>　同情的</td></tr><tr><td>empathetic</td><td>同感的</td></tr><tr><td>pathetic</td><td>悲哀的</td></tr><tr><td>primate</td><td>大主教; 灵长类</td></tr></tbody></table>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;英&lt;/th&gt;
-&lt;th&gt;漢&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;bulky&lt;/td&gt;
-&lt;td&gt;庞大的&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;mourn&lt;/td&gt;
-&lt;td&gt;哀悼&lt;/td&gt;
-&lt;/t
-      
-    
-    </summary>
-    
-    
-      <category term="笔记" scheme="http://yoursite.com/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-      <category term="单词" scheme="http://yoursite.com/tags/%E5%8D%95%E8%AF%8D/"/>
-    
-  </entry>
   
   <entry>
     <title>c++的注意事项</title>
